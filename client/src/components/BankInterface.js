@@ -9,7 +9,7 @@ import BankABI from '../contracts/Bank.json';
 import { Container, Paper, Box, Typography, ThemeProvider, createTheme, CssBaseline } from '@mui/material';
 
 // Contract address from deployment
-const CONTRACT_ADDRESS = "0xCd3B13cA8ad62C546c09deFaf7560943A774BEf3";
+const CONTRACT_ADDRESS = "Your contract address";
 
 // Create a custom theme
 const theme = createTheme({
